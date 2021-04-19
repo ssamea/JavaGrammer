@@ -15,7 +15,7 @@
 |---|---|
 
 |byte|Byte|
-|char|Character||
+|char|Character|
 |int|Integer|
 |float|Float|
 |double|Double|
