@@ -12,16 +12,16 @@
 ### 래퍼 클래스의 종류
 
 | 기본타입(primitive type)|래퍼클래스(wrapper class)|
-|---|---|
+|----------|----------|
 
-|byte|Byte|
-|char|Character|
-|int|Integer|
-|float|Float|
-|double|Double|
-|boolean|Boolean|
-|long|Long|
-|short|Short|
+| byte | Byte|
+| char | Character|
+| int | Integer|
+| float | Float|
+| double | Double|
+| boolean | Boolean|
+| long | Long|
+| short | Short|
 
 - 래퍼 클래스는 java.lang 패키지에 포함되어 있는데, 다음과 같이 기본 타입에 대응되는 래퍼 클래스들이 있습니다. 
 - char타입과 int타입이 각각 Character와 Integer의 래퍼 클래스를 가지고 있고 나머지는 기본 타입의 첫 글자를 대문자로 바꾼 이름을 가지고 있습니다.
