@@ -12,7 +12,7 @@
 ### 래퍼 클래스의 종류
 
 | 기본타입(primitive type)|래퍼클래스(wrapper class)|
-|----------|----------|
+
 
 | byte | Byte|
 | char | Character|
